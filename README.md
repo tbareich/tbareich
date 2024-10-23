@@ -1,1 +1,1 @@
-[![Tareq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbareich)](https://github.com/tbareich/github-readme-stats)
+[![Tareq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbareich&show_icons=true&theme=transparent)](https://github.com/tbareich/github-readme-stats)
