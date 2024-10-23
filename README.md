@@ -1,1 +1,2 @@
-[![Tareq's GitHub stats](https://github-readme-stats-self-zeta.vercel.app/api?username=tbareich&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/tbareich/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats-self-zeta.vercel.app/api?username=tbareich&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+<img align="left" width="47%" src="https://github-readme-stats-self-zeta.vercel.app/api/top-langs/?username=tbareich&layout=compact&theme=dracula"/>
