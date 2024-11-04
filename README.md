@@ -1,2 +1,2 @@
 <img align="top" src="https://github-readme-stats-self-zeta.vercel.app/api/?username=tbareich&layout=compact&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="tbareich"/>
-<img align="top" src="https://github-readme-stats-self-zeta.vercel.app/api/top-langs/?username=tbareich&layout=compact&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&locale=en" alt="tbareich"/>
+<img align="top" src="https://github-readme-stats-self-zeta.vercel.app/api/top-langs/?username=tbareich&layout=compact&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="tbareich"/>
